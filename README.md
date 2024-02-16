@@ -44,7 +44,3 @@ https://playwright.dev/docs/getting-started-vscode
 ## To-do
 [  ] Fix configuration so test can be run from any terminal/ide.
 [  ] Separate some flows in specific tests, to support parallelism and avoid dependecies.
-
-
-
-
