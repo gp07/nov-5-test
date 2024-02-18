@@ -19,7 +19,7 @@ To install the necessary dependencies, follow these steps:
 1. Clone this repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/movie-review-automation.git
+   git clone https://github.com/gp07/nov-5-test.git
    ```
 2. Navigate to the project directory.
 3. Install dependencies using:
